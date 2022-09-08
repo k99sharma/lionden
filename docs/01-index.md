@@ -16,7 +16,7 @@ title: Den Introduction
 ### Database
 *Database concepts and advanced topics.*
 
-[Relational Database](02-Database/01-Relational%20Database/01-Intro.md)
+[Relational Database](Database/Relational%20Database/Intro)
 
 ### Scripting
 *Scripting concepts and tricks.*
