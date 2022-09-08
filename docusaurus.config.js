@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lionden',
   tagline: 'My personal notes collection',
-  url: 'https://k99sharma.github.io/lionden/',
+  url: 'https://ghost32-lionden.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
