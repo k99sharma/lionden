@@ -8,8 +8,8 @@ const FeatureList = [
     Svg: require('@site/static/img/lion-den.svg').default,
     description: (
       <>
-        Lionden is a collection of personal notes with mixed topics. Simple demonstration and code for advanced topics.
-        Integrated visualization for more detail.
+        Lionden is a collection of personal notes with mixed topics. <br />
+        Simple demonstration and code for advanced topics.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
 
 function Feature({Svg, title, description}) {
   return (
-    <div className={clsx('col col--4')}>
+    <div className={clsx('col')}>
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
