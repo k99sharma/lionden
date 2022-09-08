@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Lionden',
   tagline: 'My personal notes collection',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://k99sharma.github.io/lionden/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
