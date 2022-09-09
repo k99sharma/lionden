@@ -31,17 +31,16 @@
 }
 
 .custom__button {
-  background-color: white;
-  color: black;
-  border: 1px black solid;
+  color: #36454F;
+  border: 1px #36454F solid;
 }
 
 .custom__button:hover{
-  color: black;
+  color: #0C0404;
+  background-color: white;
   transform: translateY(-4px);
   transition: all 0.1s ease-in-out;
   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-  border: 1px black solid;
 }
 
 @media screen and (max-width: 996px) {
