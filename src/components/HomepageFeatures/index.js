@@ -20,30 +20,30 @@ function Introduction() {
 const FeatureList = [
   {
     title: 'Creative Notes',
-    Svg: require('@site/static/img/lion-den.svg').default,
+    Svg: require('@site/static/img/featureSvg1.svg').default,
     description: (
       <>
-        Lionden is a collection of personal notes with mixed topics. <br />
+        Lionden is a collection of personal notes with mixed topics.
         Simple demonstration and code for advanced topics.
       </>
     ),
   },
   {
     title: 'Creative Notes',
-    Svg: require('@site/static/img/lion-den.svg').default,
+    Svg: require('@site/static/img/featureSvg2.svg').default,
     description: (
       <>
-        Lionden is a collection of personal notes with mixed topics. <br />
+        Lionden is a collection of personal notes with mixed topics.
         Simple demonstration and code for advanced topics.
       </>
     ),
   },
   {
     title: 'Creative Notes',
-    Svg: require('@site/static/img/lion-den.svg').default,
+    Svg: require('@site/static/img/featureSvg3.svg').default,
     description: (
       <>
-        Lionden is a collection of personal notes with mixed topics. <br />
+        Lionden is a collection of personal notes with mixed topics.
         Simple demonstration and code for advanced topics.
       </>
     ),
