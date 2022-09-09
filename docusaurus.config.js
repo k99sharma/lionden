@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Lionden',
-  tagline: 'My personal notes collection',
+  tagline: 'Study Smarter, Not Harder',
   url: 'https://ghost32-lionden.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -55,13 +55,7 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'index',
-            position: 'left',
-            label: 'Den Map',
-          },
-          {
-            href: 'https://github.com/k99sharma',
+            href: 'https://github.com/k99sharma/lionden',
             label: 'GitHub',
             position: 'right',
           },

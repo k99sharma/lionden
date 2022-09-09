@@ -4,14 +4,49 @@
  */
 
 .heroBanner {
+  margin-top: 50px;
   padding: 4rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
 }
 
+.banner__tagline {
+  font-size: 24px;
+  font-weight: medium;
+}
+
+.banner__title {
+  font-size: 64px;
+  font-weight: bold;
+  background: -webkit-linear-gradient(#f3696e, #f8a902);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.banner__subtitle {
+  font-size: 18px;
+  font-weight: medium;
+  margin-top: 1rem;
+}
+
+.custom__button {
+  background-color: white;
+  color: black;
+  border: 1px black solid;
+}
+
+.custom__button:hover{
+  color: black;
+  transform: translateY(-4px);
+  transition: all 0.1s ease-in-out;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px black solid;
+}
+
 @media screen and (max-width: 996px) {
   .heroBanner {
+    font-size: 72px;
     padding: 2rem;
   }
 }
@@ -20,4 +55,5 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  margin-top: 4rem;
 }
