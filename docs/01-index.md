@@ -1,6 +1,6 @@
 ---
 id: index
-title: Den Introduction
+title: Den Map
 ---
 
 # Documentation Topics

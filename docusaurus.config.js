@@ -65,10 +65,13 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Lionden',
+          },
+          {
+            title: 'Collection',
             items: [
               {
-                label: 'Den Introduction',
+                label: 'Den Map',
                 to: '/docs/index',
               },
             ],

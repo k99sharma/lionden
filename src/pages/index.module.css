@@ -13,13 +13,13 @@
 
 .banner__tagline {
   font-size: 24px;
-  font-weight: medium;
+  font-weight: bold;
 }
 
 .banner__title {
   font-size: 64px;
   font-weight: bold;
-  background: -webkit-linear-gradient(#f3696e, #f8a902);
+  background: -webkit-linear-gradient(#E84E27, #F9B71B);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
@@ -31,8 +31,8 @@
 }
 
 .custom__button {
-  color: #36454F;
-  border: 1px #36454F solid;
+  color: #303846;
+  border: 1px #303846 solid;
 }
 
 .custom__button:hover{
