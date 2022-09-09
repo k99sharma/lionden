@@ -66,6 +66,11 @@ const config = {
         links: [
           {
             title: 'Lionden',
+            items: [
+              {
+                label: 'What is Lionden?',
+                to: 'https://github.com/k99sharma/lionden',
+              }],
           },
           {
             title: 'Collection',

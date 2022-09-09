@@ -3,41 +3,13 @@ id: index
 title: Den Map
 ---
 
-# Documentation Topics
+# What is Den Map?
 
-*This documentation consists my personal notes on various topics and technologies.*
+Den Map is a comprehensive list of topics which are available in Lioden.
 
-### Programming Languages
-*Contains notes about important and advanced topics.*
+<!-- ### Database -->
+<!-- *Database concepts and advanced topics.* -->
+<!-- 
+[Relational Database](Database/Relational%20Database/Intro) -->
 
-### Computer Fundamentals
-*Different computer fundamental concepts.*
 
-### Database
-*Database concepts and advanced topics.*
-
-[Relational Database](Database/Relational%20Database/Intro)
-
-### Scripting
-*Scripting concepts and tricks.*
-
-### Algorithms
-*Algorithm concepts and codes.*
-
-### DataStructures
-*DataStructures concepts and codes. Time Complexity analysis is done.*
-
-### Technology
-*Notes about different technological fields.*
-
-### System Design
-
-### Data Interpretation
-
-### Cryptography
-
-### Designing
-
-### Linux System
-
-### Software Engineering
