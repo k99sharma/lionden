@@ -18,6 +18,8 @@ tag: [relational database, introduction]
 ### Available Concepts
 
 - [What is Data?](Data)
+- [What is Database](Database)
 - [Relational Model](RelationalModel)
 - [Keys](RelationKeys)
 - [Constraints in Relational Model](Constraints)
+- [Database Architecture](DatabaseArchitecture)

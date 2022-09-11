@@ -1,5 +1,5 @@
 --- 
-title: What is data?
+title: What is Data?
 tag: [relational database, data]
 ---
 
